@@ -1,0 +1,36 @@
+package quatro09;
+
+public enum Supermercado {
+	
+	Leite,
+	Pao,
+	Arroz,
+	Feijao,
+	Macarrao,
+	Oleo_de_cozinha,
+	Acucar,
+	Sal,
+	Cafe,
+	Manteiga,
+	Queijo,
+	Presunto,
+	Frango,
+	Carne_bovina,
+	Peixe,
+	Ovos,
+	Frutas,
+	Legumes,
+	Verduras,
+	Iogurte,
+	Refrigerante,
+	Suco,
+	Cereal,
+	Bolacha,
+	Massa_de_tomate,
+	Maionese,
+	Ketchup,
+	Mostarda,
+	Condimentos,
+	Produtos_de_limpeza
+
+}
