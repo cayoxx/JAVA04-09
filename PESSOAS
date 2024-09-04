@@ -1,0 +1,26 @@
+package quatro09;
+
+public enum Pessoas {
+	
+	Alice,
+	Sophia,
+	Isabella,
+	Gabriel,
+	Lucas,
+	Luna,
+	Aurora,
+	Mateus,
+	Sayori,
+	Valentina,
+	Goku,
+	Eva,
+	Davi,
+	MC,
+	Miguel,
+	Isabel,
+	Henrique,
+	Laura,
+	Rudrian_Cesar,
+	Rafael
+
+}
