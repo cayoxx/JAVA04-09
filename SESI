@@ -1,0 +1,20 @@
+package quatro09;
+
+public enum SESI {
+	
+	HISTORIA,
+	FILOSOFIA,
+	SOCIOLOGIA,
+	LP,
+	MATEMATICA,
+	FISICA,
+	EF,
+	INGLES,
+	QUIMICA,
+	GEOGRAFIA,
+	BIOLOGIA,
+	ARTES,
+	SENAI,
+	TA
+
+}
