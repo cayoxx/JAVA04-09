@@ -1,0 +1,14 @@
+package quatro09;
+
+public class PrincipalCarro {
+
+	public static void main(String[] args) {
+
+		for(Carro carro : Carro.values()) {
+			System.out.println(carro);
+		}
+		
+		
+	}
+
+}
