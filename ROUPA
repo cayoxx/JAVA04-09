@@ -1,0 +1,13 @@
+package quatro09;
+
+public enum Roupa {
+	
+	Nike,
+	Adidas,
+	Prada,
+	Zara,
+	Uniqlo,
+	Gucci,
+	Chanel
+
+}
