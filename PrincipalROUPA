@@ -1,0 +1,13 @@
+package quatro09;
+
+public class PrincipalRoupa {
+
+	public static void main(String[] args) {
+	
+		for(Roupa roupa : Roupa.values()) {
+			System.out.println(roupa);
+		}
+
+	}
+
+}
