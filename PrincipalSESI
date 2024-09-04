@@ -1,0 +1,13 @@
+package quatro09;
+
+public class PrincipalSESI {
+
+	public static void main(String[] args) {
+	
+		for(SESI Disciplina : SESI.values()) {
+			System.out.println(Disciplina);
+		}
+
+	}
+
+}
