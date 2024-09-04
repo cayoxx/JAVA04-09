@@ -1,0 +1,13 @@
+package quatro09;
+
+public class PrincipalPessoas {
+
+	public static void main(String[] args) {
+
+		
+		for(Pessoas pessoa : Pessoas.values()) {
+			System.out.println(pessoa);
+		}
+	}
+
+}
