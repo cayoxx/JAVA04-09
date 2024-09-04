@@ -1,0 +1,13 @@
+package quatro09;
+
+public class PrincipalSupermercado {
+
+	public static void main(String[] args) {
+	
+		for(Supermercado produto : Supermercado.values()) {
+			System.out.println(produto);
+		}
+
+	}
+
+}
